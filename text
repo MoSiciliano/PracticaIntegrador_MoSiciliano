@@ -1,0 +1,13 @@
+Students
+   firstName
+   lastName
+   age
+   dni
+   email
+   course
+   avatar
+
+
+CRUD
+    
+    mongodb+srv://MoSiciliano:Lgb0AnicQlkz60ud@cluster0.gbqbbvt.mongodb.net/
